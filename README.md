@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966)
+![MasterHead](https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)
 <h1 align="center">Hi 👋, I'm Dipesh Patel</h1>
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
