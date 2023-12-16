@@ -1,4 +1,4 @@
-![MasterHead]([https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ))
+![MasterHead](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)
 <h1 align="center">Hi 👋, I'm Dipesh Patel</h1>
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
