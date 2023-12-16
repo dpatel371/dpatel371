@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics-dashboard&psig=AOvVaw2FUjus1aAhD7kyLbHU0Ivl&ust=1702835522433000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiKoOfClIMDFQAAAAAdAAAAABAD)]
+![MasterHead](https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ)
 <h1 align="center">Hi 👋, I'm Dipesh Patel</h1>
 <h3 align="center">Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
